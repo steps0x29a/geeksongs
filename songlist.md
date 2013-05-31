@@ -24,3 +24,6 @@
 - nice, nice Baby (Vanilla Ice)
 - Weil ich n /usr/bin (Lucylectric)
 - break;ing The Law (Judas Priest)
+- Last Minute pointer (Refused)
+- Null Pointer (Monolake/Robert Henke)
+- Blame git (Jamie Foxx, T-Pain)
