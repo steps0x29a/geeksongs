@@ -34,3 +34,4 @@
 - Merge Ör Die (Motörhead)
 - Desperate `try` (Sepultura)
 - root Bloody root (Sepultura)
+- Mouth For WAR (Pantera)
