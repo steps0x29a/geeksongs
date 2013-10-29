@@ -37,4 +37,4 @@
 - Mouth For WAR (Pantera)
 - I Am The SWORD (Motörhead)
 - What Is LAHF (Haddaway)
-- Gebt Das RAM Frei (Stefan Raab feat. Shaggy)
+- Hit The Code, Stack (Hit The Road, Jack)
