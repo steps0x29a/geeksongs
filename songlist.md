@@ -39,4 +39,4 @@
 - What Is LAHF (Haddaway)
 - Hit The Code, Stack (Hit The Road, Jack)
 - RAID Me (Nirvana)
-- Faster with Puppet (Master of Puppets)
+- Faster with Puppet (Metallica)
