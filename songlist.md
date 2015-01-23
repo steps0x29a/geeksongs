@@ -40,3 +40,4 @@
 - Hit The Code, Stack (Hit The Road, Jack)
 - RAID Me (Nirvana)
 - Faster with Puppet (Metallica)
+- `tail` Into The Black (Machine Head)
