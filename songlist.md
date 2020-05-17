@@ -44,3 +44,5 @@
 - `uptime` Girl (Billy Joel)
 - The Pod That Failed (Metallica)
 - Living Next Door to `ls` (Smokie)
+- [Uptime Funk (SUSE)](https://www.youtube.com/watch?v=SYRlTISvjww)
+- [KUBERNETES (SUSE)](https://www.youtube.com/watch?v=0w6kXdHXxAA)
